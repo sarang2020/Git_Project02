@@ -1,3 +1,4 @@
 changes done after adding
 
-Fixing one defect here for branch bug1
+F@ixing - one defect here for branch bug1
+Change in file2 at master for work item by a team mate
