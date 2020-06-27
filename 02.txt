@@ -9,3 +9,5 @@ Fixing one defect here for branch bug1
 
 Fixing one defect here for branch bug2, remove the lines and fixed the conflict
 
+
+Change inmaster to test rebase
