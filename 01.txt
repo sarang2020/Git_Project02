@@ -4,8 +4,12 @@ will no push to remote
 
 adding this line on remote server for testing pull
 
+
 This line also added to test conflict push, but done this on remote 
 This line also added to test conflict push, but done this on remote 
 This line also added to test conflict push, but done this on remote 
-This line also added to test conflict push, but done this on remote 
-This line also added to test conflict push, but done this on remote 
+ 
+
+
+Have changed few lines to ease merge change is being done at local master to test conflict while push
+
